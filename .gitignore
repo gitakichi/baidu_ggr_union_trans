@@ -1,0 +1,14 @@
+# Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
+debug/
+get_cnyrate/index.html
+env/
+.vs/
+*/api_secret.py
+*/__pycache__/
+
